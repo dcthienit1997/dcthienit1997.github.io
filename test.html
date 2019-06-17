@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>DCT Try</title>
+<link type="text/css" rel="stylesheet" href="css/try.css">
+<link type="text/css" rel="stylesheet" href="css/style.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+
+	<script>
+		function view_result() {
+			var text = document.getElementById("textareaCode").value;
+			var ifr = document.createElement("iframe");
+			ifr.setAttribute("frameborder", "0");
+			ifr.setAttribute("id", "iframeResult");
+			document.getElementById("iframewrapper").innerHTML = "";
+			document.getElementById("iframewrapper").appendChild(ifr);
+			var ifrw = (ifr.contentWindow) ? ifr.contentWindow
+					: (ifr.contentDocument.document) ? ifr.contentDocument.document
+							: ifr.contentDocument;
+			ifrw.document.open();
+			ifrw.document.write(text);
+			ifrw.document.close();
+		}
+	</script>
+
+	<header>
+	 </header>
+
+	<main>
+
+	<div class="wrapper">
+		<div class="grid">
+			<div class="slogan">
+				<q>Code it your way !</q>
+			</div>
+			<div class="title" id="title">
+				<p>Write what you think</p>
+			</div>
+			<div class="run" id="run">
+				<p>Let's see the results !</p>
+				<button class="view_result" onclick="view_result()">RUN</button>
+			</div>
+			<div class="textareacontainer" id="textareacontainer">
+				<div class="textarea" id="textarea">
+					<div class="textareawrapper" id="textareawrapper">
+						<div id="codecolor" class="codecolorCC"></div>
+						<textarea id="textareaCode" autocomplete="off" wrap="logical"
+							spellcheck="false" class="textareaCC">
+                                                
+                            </textarea>
+					</div>
+				</div>
+			</div>
+			<div class="iframecontainer" id="iframecontainer">
+				<div class="iframe" id="iframe">
+					<div class="iframewrapper" id="iframewrapper">
+						<iframe frameborder="0" id="iframeResult"> </iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	</main>
+
+	<footer> </footer>
+
+	<script>
+		
+	</script>
+
+
+
+</body>
+</html>
