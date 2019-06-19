@@ -1,11 +1,9 @@
-         // Create a text node
-                       // Append the text to <li>
+$(window).on("load", function () {
 
+    //preloader
+    $('#preloader').delay(550).fadeOut('slow');
+    $('body').delay(550).css({
+        'overflow': 'visible'
+    });
 
-
-for(var i = 1; i <= 10; i++) {
-    var node = document.createElement("LI");
-    var textnode = document.createTextNode(i);
-    node.appendChild(textnode);    
-    document.getElementById("myList").appendChild(node);     
-}
+});
