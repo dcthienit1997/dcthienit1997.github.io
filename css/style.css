@@ -9,6 +9,9 @@ body {
 	line-height: 1.8;
 	color: #666
 }
+ul {
+	padding: 0;
+}
 
 /* preloader
 ======================================================*/
@@ -93,7 +96,7 @@ body {
 .box-header.is-fixed {
 	position: fixed;
 	top: -80px;
-	background-color: rgba(211, 32, 116, 0.96);	
+	background-color: rgba(255, 255, 255, 0.96);	
 	-webkit-transition: -webkit-transform 0.3s;
     transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
@@ -308,8 +311,6 @@ body {
 	border-top-right-radius: 17px;
 	border-bottom-right-radius: 17px;
 }
-.portfolio-img {
-}
 .portfolio-name {
 	color: rgba(211, 32, 116, 0.96);
 	font-size: 29px;
@@ -326,4 +327,12 @@ body {
 	color: rgba(211, 32, 116, 0.96);
 	font-size: 21px;
 	letter-spacing: 1px;
+}
+
+/* project
+============================================================*/
+.project-wrap {
+	margin-top: 30vh;
+	height: 100vh;
+	background-color: #ffbf00;
 }
