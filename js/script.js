@@ -18,13 +18,17 @@ $(document).ready(function($) {
             if (currentTop < this.previousTop) {
                 if (currentTop > 0 && $('.box-header').hasClass('is-fixed')) {
                     $('.box-header').addClass('is-visible');
+                    $('.blur').addClass('is-visible');
                 } else {
                     $('.box-header').removeClass('is-visible is-fixed');
+                    $('.blur').removeClass('is-visible is-fixed');
                 }
             } else {
                 $('.box-header').removeClass('is-visible');
+                $('.blur').removeClass('is-visible');
                 if (currentTop > headerHeight && !$('.box-header').hasClass('is-fixed')) {
                     $('.box-header').addClass('is-fixed');
+                    $('.blur').addClass('is-fixed');
                 }
             }
             this.previousTop = currentTop;

@@ -96,16 +96,18 @@ ul {
 .box-header.is-fixed {
 	position: fixed;
 	top: -80px;
-	background-color: rgba(255, 255, 255, 0.96);	
+	background-color: rgba(255, 255, 255, 0.75);	
 	-webkit-transition: -webkit-transform 0.3s;
     transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
-    transition: transform 0.3s, -webkit-transform 0.3s;
+	transition: transform 0.3s, -webkit-transform 0.3s;
 }
 .box-header.is-visible {
 	-webkit-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
 }
+
+
 .box-logo {
     display: block;
     padding: 20px;
@@ -118,7 +120,7 @@ ul {
 	height: 100%;
 	width: 100px;
 	line-height: 80px;
-	background-color: #ffff;
+	background-color: rgba(255, 255, 255, 0.0);
 	-webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
@@ -151,7 +153,7 @@ ul {
     width: 100%;
     height: 100%;
     position: absolute;
-    background-color: red;
+    background-color: #8C43FF;
     right: 0;
     -webkit-transition: -webkit-transform .3s, top .3s, background-color 0s;
     -webkit-transition: top .3s, background-color 0s, -webkit-transform .3s;
@@ -173,7 +175,7 @@ ul {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(255, 255, 255, 0.95);
+	background-color: rgba(235, 235, 235, 0.95);
 	z-index: 2;
 	text-align: center;
 	padding: 80px 0;
@@ -288,14 +290,14 @@ ul {
 ===================================================*/
 .portfolio-wrap {
 	padding: 10% 15%;
-	height: 80vh;
-	background-color: rgba(211, 32, 116, 0.96);
+	height: 90vh;
+	background-color: #8C43FF;
 }
 .portfolio-coding,
 .portfolio-design {
 	background-color: #fff;
 	border: 1px solid #dedede;
-	height: 80vh;
+	height: 85vh;
 	margin-bottom: 20px; 
 	text-align: center;
 	padding: 35px 15px;
@@ -312,7 +314,7 @@ ul {
 	border-bottom-right-radius: 17px;
 }
 .portfolio-name {
-	color: rgba(211, 32, 116, 0.96);
+	color: #8C43FF;
 	font-size: 29px;
 	letter-spacing: 1px;
 	margin: 40px 0;
@@ -324,9 +326,14 @@ ul {
 }
 .portfolio-skills,
 .portfolio-tools {
-	color: rgba(211, 32, 116, 0.96);
+	color: #8C43FF;
 	font-size: 21px;
 	letter-spacing: 1px;
+}
+.portfolio-descript-li {
+	letter-spacing: 1px;
+	font-size: 17px;
+	margin-bottom: 5px;
 }
 
 /* project
