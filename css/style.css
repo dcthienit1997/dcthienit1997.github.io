@@ -354,8 +354,10 @@ a:hover {
 .design {
 	background-color: #fff;
 	margin: 20px 0;
+	position: relative;
 }
 .project-descript {
+	position: absolute;
 	margin-top: 50%;
 	-webkit-transform: translateY(-50%);
 	transform: translateY(-50%);
