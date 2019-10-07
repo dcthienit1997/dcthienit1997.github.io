@@ -1,0 +1,14 @@
+.wrap-all {
+    background-color: #141423;
+    color: #c1caab;
+    font-size: 1.1em;
+    font-family: 'Noto Serif', serif;
+}
+.wrap-novel {
+    width: 85%;
+    margin: 0 auto;
+}
+.wrap-title {
+    font-family: 'Patrick Hand', cursive;
+    font-weight: bold;
+}
