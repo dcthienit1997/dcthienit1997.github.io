@@ -129,7 +129,7 @@ $('#yes').click(function() {
                 text: "Tối nay anh gọi em nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/thuhoachithien';
+                    window.location = 'https://www.messenger.com/t/thuhoachithien';
                   }
             })
         }
