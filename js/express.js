@@ -23,13 +23,16 @@ function firstQuestion(){
         imageAlt: 'Custom image',
         confirmButtonText: 'Okela',
       }).then(function(){
-        $('.content').show(200);
+        //   $('#bg').hide();
+          $('.content').show(200);
+        //   $('#bg2').show(200);
+
       })
 }
 
  // switch button position
  function switchButton() {
-    var audio = new Audio('sound/duck.mp3');
+    var audio = new Audio('sounds/duck.mp3');
     audio.play();
     var leftNo = $('#no').css("left");
     var topNO = $('#no').css("top");
@@ -42,7 +45,7 @@ function firstQuestion(){
 }
 // move random button póition
 function moveButton() {
-    var audio = new Audio('sound/Swish1.mp3');
+    var audio = new Audio('sounds/Swish1.mp3');
     audio.play();
     if (screen.width<=600) {
         var x = Math.random() * 300;
@@ -94,7 +97,7 @@ function textGenerate() {
 
 // show popup
 $('#yes').click(function() {
-    var audio = new Audio('sound/tick.mp3');
+    var audio = new Audio('sounds/stick.mp3');
     audio.play();
     Swal.fire({
         title: 'Nói cho tớ lí do em thích anh đi ',
