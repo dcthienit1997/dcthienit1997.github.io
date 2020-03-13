@@ -1,0 +1,4970 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values"
+        },
+        "updated": {
+            "$t": "2020-03-13T06:46:24.620Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "Global"
+        },
+        "link": [
+            {
+                "rel": "alternate",
+                "type": "application/atom+xml",
+                "href": "https://docs.google.com/spreadsheets/u/0/d/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/pubhtml"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#post",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values?alt\u003djson"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "cnadigitaldesk"
+                },
+                "email": {
+                    "$t": "cnadigitaldesk@gmail.com"
+                }
+            }
+        ],
+        "openSearch$totalResults": {
+            "$t": "129"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "China"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 80793, reporteddeaths: 3,169"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cokwr"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "China"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "80793"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "3,169"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cpzh4"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Italy"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 15,113, reporteddeaths: 1,016"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cpzh4"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Italy"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "15,113"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1,016"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cre1l"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Iran"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 10,075, reporteddeaths: 429"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cre1l"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Iran"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "10,075"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "429"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/chk2m"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "South Korea"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 7979, reporteddeaths: 66"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/chk2m"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "South Korea"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "7979"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "66"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ciyn3"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Spain"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2,968, reporteddeaths: 84"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ciyn3"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Spain"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2,968"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "84"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ckd7g"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Germany "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2,745, reporteddeaths: 6"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ckd7g"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Germany "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2,745"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "6"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/clrrx"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "France "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2,876, reporteddeaths: 61"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/clrrx"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "France "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2,876"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "61"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cyevm"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "United States"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1,663, reporteddeaths: 40, _chk2m:  "
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cyevm"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "United States"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1,663"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "40"
+                },
+                "gsx$_chk2m": {
+                    "$t": " "
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cztg3"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Switzerland"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 858, reporteddeaths: 6"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cztg3"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Switzerland"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "858"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "6"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d180g"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Norway"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 702, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d180g"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Norway"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "702"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d2mkx"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Cruise ship (Diamond Princess)"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 696, reporteddeaths: 7"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d2mkx"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Cruise ship (Diamond Princess)"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "696"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "7"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cssly"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Japan"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 676, reporteddeaths: 19"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cssly"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Japan"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "676"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "19"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cu76f"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Sweden"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 620, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cu76f"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Sweden"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "620"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cvlqs"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Denmark"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 617"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cvlqs"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Denmark"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "617"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cx0b9"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Netherlands"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 614, reporteddeaths: 5"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cx0b9"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Netherlands"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "614"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "5"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d9ney"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "United Kingdom"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 590, reporteddeaths: 10"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d9ney"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "United Kingdom"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "590"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "10"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/db1zf"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Belgium "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 399, reporteddeaths: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/db1zf"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Belgium "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "399"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dcgjs"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Austria"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 361, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dcgjs"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Austria"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "361"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ddv49"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Qatar"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 262"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ddv49"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Qatar"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "262"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d415a"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Bahrain"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 195"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d415a"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Bahrain"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "195"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d5fpr"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Singapore"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 187"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d5fpr"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Singapore"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "187"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d6ua4"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Malaysia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 158"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d6ua4"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Malaysia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "158"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d88ul"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Canada"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 138, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/d88ul"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Canada"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "138"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dkvya"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hong Kong "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 131, reporteddeaths: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dkvya"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Hong Kong "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "131"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dmair"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Australia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 168, reporteddeaths: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dmair"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Australia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "168"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dnp34"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Finland "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 109"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dnp34"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Finland "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "109"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dp3nl"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Israel"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 109"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dp3nl"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Israel"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "109"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/df9om"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Greece"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 99, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/df9om"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Greece"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "99"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dgo93"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Czech Republic"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 94"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dgo93"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Czech Republic"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "94"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/di2tg"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Slovenia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 89"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/di2tg"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Slovenia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "89"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/djhdx"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Iceland"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 103"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/djhdx"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Iceland"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "103"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dw4je"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "United Arab Emirates "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 85"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dw4je"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "United Arab Emirates "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "85"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dxj3v"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Kuwait "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 80"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dxj3v"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Kuwait "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "80"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dyxo8"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Iraq"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 79, reporteddeaths: 8"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dyxo8"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Iraq"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "79"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "8"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e0c8p"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "India"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 74, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e0c8p"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "India"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "74"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dqi9q"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Thailand"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 70, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dqi9q"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Thailand"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "70"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/drwu7"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "San Marino"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 69, reporteddeaths: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/drwu7"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "San Marino"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "69"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dtbek"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Egypt "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 67, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dtbek"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Egypt "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "67"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dupz1"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Lebanon"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 66, reporteddeaths: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/dupz1"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Lebanon"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "66"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "3"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e7d2q"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Portugal"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 78"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e7d2q"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Portugal"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "78"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e8rn7"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Brazil"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 77"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e8rn7"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Brazil"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "77"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ea67k"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Philippines"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 52, reporteddeaths: 5"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ea67k"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Philippines"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "52"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "5"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ebks1"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Taiwan"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 49, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ebks1"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Taiwan"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "49"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e1qt2"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Romania"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 48"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e1qt2"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Romania"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "48"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e35dj"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Poland"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 49, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e35dj"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Poland"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "49"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e4jxw"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Saudi Arabia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 62"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e4jxw"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Saudi Arabia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "62"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e5yid"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Vietnam"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 44"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/e5yid"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Vietnam"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "44"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eilm2"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Ireland"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 43, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eilm2"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Ireland"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "43"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ek06j"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Indonesia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 34, reporteddeaths: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ek06j"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Indonesia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "34"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "2"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eleqw"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Palestine"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 31"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eleqw"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Palestine"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "31"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/emtbd"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Russia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 28"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/emtbd"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Russia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "28"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eczce"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Brunei"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 25"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eczce"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Brunei"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "25"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eedwv"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Algeria"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 26, reporteddeaths: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eedwv"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Algeria"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "26"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "2"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/efsh8"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Georgia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 25"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/efsh8"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Georgia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "25"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eh71p"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Chile"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 33"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eh71p"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Chile"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "33"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/etu5e"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Costa Rica"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 23"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/etu5e"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Costa Rica"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "23"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ev8pv"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Cruise ship (Grand Princess)"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 21"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ev8pv"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Cruise ship (Grand Princess)"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "21"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ewna8"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Pakistan"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 21"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ewna8"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Pakistan"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "21"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ey1up"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Argentina"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 30, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ey1up"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Argentina"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "30"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eo7vq"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Croatia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 24"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/eo7vq"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Croatia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "24"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/epmg7"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Luxembourg "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 26"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/epmg7"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Luxembourg "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "26"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/er10k"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Serbia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 24"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/er10k"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Serbia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "24"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/esfl1"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Oman"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 18"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/esfl1"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Oman"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "18"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a59y2"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Ecuador"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 17"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a59y2"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Ecuador"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "17"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a6oij"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Estonia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 27"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a6oij"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Estonia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "27"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a832w"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "South Africa"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 17"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a832w"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "South Africa"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "17"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a9hnd"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hungary"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 16"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a9hnd"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Hungary"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "16"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/9znoe"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Latvia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 16"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/9znoe"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Latvia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "16"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a128v"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Slovakia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 21"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a128v"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Slovakia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "21"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a2gt8"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Albania"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 23, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a2gt8"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Albania"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "23"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a3vdp"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Peru"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 22"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/a3vdp"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Peru"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "22"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/agihe"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Belarus"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 12"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/agihe"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Belarus"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "12"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ahx1v"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Mexico"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 12"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ahx1v"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Mexico"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "12"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ajbm8"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Azerbaijan"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 11, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ajbm8"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Azerbaijan"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "11"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/akq6p"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Bosnia and Herzegovina"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 11"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/akq6p"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Bosnia and Herzegovina"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "11"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/aaw7q"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Panama"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 27, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/aaw7q"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Panama"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "27"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/acas7"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Macau "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 10"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/acas7"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Macau "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "10"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/adpck"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Colombia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 9"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/adpck"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Colombia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "9"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/af3x1"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Maldives"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 8"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/af3x1"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Maldives"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "8"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/arr0q"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Afghanistan"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 7"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/arr0q"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Afghanistan"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "7"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/at5l7"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Bulgaria"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 23, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/at5l7"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Bulgaria"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "23"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/auk5k"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "North Macedonia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 9"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/auk5k"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "North Macedonia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "9"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/avyq1"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Tunisia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 13"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/avyq1"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Tunisia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "13"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/am4r2"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Cyprus"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 10"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/am4r2"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Cyprus"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "10"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/anjbj"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Malta"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 9"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/anjbj"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Malta"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "9"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/aoxvw"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Morocco"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 6, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/aoxvw"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Morocco"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "6"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/aqcgd"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Dominican Republic"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 5"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/aqcgd"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Dominican Republic"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "5"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b2zk2"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "French Guiana"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 5"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b2zk2"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "French Guiana"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "5"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b4e4j"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "New Zealand"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 5"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b4e4j"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "New Zealand"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "5"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b5sow"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Senegal"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 10"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b5sow"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Senegal"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "10"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b779d"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Bangladesh"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b779d"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Bangladesh"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/axdae"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Cambodia "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 5"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/axdae"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Cambodia "
+                },
+                "gsx$confirmedcases": {
+                    "$t": "5"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ayruv"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Cuba"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ayruv"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Cuba"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b06f8"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Lithuania"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b06f8"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Lithuania"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b1kzp"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Martinique"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b1kzp"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Martinique"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/be856"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Bolivia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/be856"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Bolivia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bfmpn"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Burkina Faso"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bfmpn"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Burkina Faso"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bh1a0"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Cameroon"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bh1a0"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Cameroon"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bifuh"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Faroe Islands"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bifuh"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Faroe Islands"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b8lvi"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Honduras"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/b8lvi"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Honduras"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ba0fz"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Nigeria"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ba0fz"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Nigeria"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bbf0c"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Saint Martin"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bbf0c"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Saint Martin"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bctkt"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Andorra"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bctkt"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Andorra"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bpgoi"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Armenia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 6"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bpgoi"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Armenia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "6"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bqv8z"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Bhutan"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bqv8z"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Bhutan"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bs9tc"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Channel Islands"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bs9tc"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Channel Islands"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/btodt"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Democratic Republic of Congo"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/btodt"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Democratic Republic of Congo"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bjueu"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Gibraltar"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bjueu"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Gibraltar"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bl8zb"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Guyana"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1, reporteddeaths: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bl8zb"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Guyana"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": "1"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bmnjo"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Ivory Coast"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bmnjo"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Ivory Coast"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bo245"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Jamaica"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bo245"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Jamaica"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c0p7u"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Jordan"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c0p7u"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Jordan"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c23sb"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Liechtenstein"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 4"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c23sb"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Liechtenstein"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "4"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c3ico"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Moldova"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 6"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c3ico"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Moldova"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "6"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c4wx5"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Monaco"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c4wx5"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Monaco"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bv2y6"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Mongolia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bv2y6"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Mongolia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bwhin"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Nepal"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bwhin"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Nepal"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bxw30"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Paraguay"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 5"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bxw30"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Paraguay"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "5"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bzanh"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Saint Barthelemy"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/bzanh"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Saint Barthelemy"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cbxr6"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Sri Lanka"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cbxr6"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Sri Lanka"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cdcbn"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Togo"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cdcbn"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Togo"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ceqw0"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Turkey"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/ceqw0"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Turkey"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cg5gh"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Ukraine"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 3"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/cg5gh"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Ukraine"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "3"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c6bhi"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Vatican City"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c6bhi"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Vatican City"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c7q1z"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "French Polynesia"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c7q1z"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "French Polynesia"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c94mc"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Ghana"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 2"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/c94mc"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Ghana"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "2"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/caj6t"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Gabon"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/caj6t"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Gabon"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/hmyxm"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Trinidad and Tobago"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/hmyxm"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Trinidad and Tobago"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/hodi3"
+                },
+                "updated": {
+                    "$t": "2020-03-13T06:46:24.620Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Réunion Island"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "confirmedcases: 1"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1lwnfa-GlNRykWBL5y7tWpLxDoCfs8BvzWxFjeOZ1YJk/1/public/values/hodi3"
+                    }
+                ],
+                "gsx$country": {
+                    "$t": "Réunion Island"
+                },
+                "gsx$confirmedcases": {
+                    "$t": "1"
+                },
+                "gsx$reporteddeaths": {
+                    "$t": ""
+                }
+            }
+        ]
+    }
+}
