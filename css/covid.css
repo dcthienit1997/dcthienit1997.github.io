@@ -81,6 +81,7 @@
 .cov_reported_deaths,
 .cov_rank {
     line-height: 60px;
+    color: #164a99;
 }
 .cov_confirmed_cases_top1,
 .cov_reported_deaths_top1,
