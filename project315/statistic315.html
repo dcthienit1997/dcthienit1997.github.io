@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistic 315 | Freelance Job</title>
+    <!-- ========================================================================================== -->
+    <!-- ADD BOOTSTRAP CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style315.css">
+    <link rel="stylesheet" href="css/statistic315.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="container ">
+            <section class="stats">
+                <div class="sub-title">
+                    <h2>Thống Kê Lượt Khách Hàng</h2>
+                </div>
+                <div class="search">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                </div>
+                <div class="table">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                </div>
+            </section>
+            <section class="graphs">
+                <div class="sub-title">
+                    <h2>Biểu Đồ</h2>
+                </div>
+                <div class="graph" style="width: 60%; margin-top: 100px; margin: 0 auto;">
+                    <canvas id="myChart1" width="600" height="300"></canvas>
+                </div>
+                <div class="graph" style="width: 60%; margin-top: 100px; margin: 0 auto;">
+                    <canvas id="myChart2" width="600" height="300"></canvas>
+                </div>
+                <div class="graph" style="width: 60%; margin-top: 100px; margin: 0 auto;">
+                    <canvas id="myChart3" width="600" height="300"></canvas>
+                </div>
+            </section>
+        </div>
+    </div>
+    <div class="gent__footer">
+        <iframe src="footer.html" frameborder="0" name="Footer" width="100%" height="auto"
+            onload='resizeIframe(this)'></iframe>
+    </div>
+</body>
+<!-- ================================================================================ -->
+<!-- ADD BOOTSTRAP JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="js/statistic315.js"></script>
+<script src="js/script315.js"></script>
+<!--CHART -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+<script>
+    var color = Chart.helpers.color;
+    var ctx1 = document.getElementById('myChart1').getContext('2d');
+    var ctx2 = document.getElementById('myChart2').getContext('2d');
+    var ctx3 = document.getElementById('myChart3').getContext('2d');
+    var myChart1 = new Chart(ctx1, {
+        type: 'bar',
+        data: {
+            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+            datasets: [{
+                label: '# of Votes',
+                data: [12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3],
+                borderWidth: 1,
+                backgroundColor: "rgba(10, 132, 255, 0.7)",
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            },
+            title: {
+                display: true,
+                text: 'CHI NHÁNH ĐỒNG ĐEN'
+            }
+        }
+    });
+    var myChart2 = new Chart(ctx2, {
+        type: 'bar',
+        data: {
+            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+            datasets: [{
+                label: '# of Votes',
+                data: [12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3],
+                borderWidth: 1,
+                backgroundColor: "rgba(10, 132, 255, 0.7)",
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            },
+            title: {
+                display: true,
+                text: 'CHI NHÁNH ĐỒNG ĐEN'
+            }
+        }
+    });
+    var myChart3 = new Chart(ctx3, {
+        type: 'bar',
+        data: {
+            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+            datasets: [{
+                label: '# of Votes',
+                data: [12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3,
+                    12, 19, 3, 5, 2, 3],
+                borderWidth: 1,
+                backgroundColor: "rgba(10, 132, 255, 0.7)",
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            },
+            title: {
+                display: true,
+                text: 'CHI NHÁNH ĐỒNG ĐEN'
+            }
+        }
+    });
+</script>
+
+</html>

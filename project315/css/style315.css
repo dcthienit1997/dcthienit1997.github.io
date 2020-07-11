@@ -23,7 +23,7 @@ body {
     width: 100%;
     clear: both;
     /* sticky footer fix start */
-    position: absolute;
+    position: fixed;
     bottom: 0;
     height: auto;
     /* sticky footer fix end */
@@ -34,16 +34,4 @@ body {
     -webkit-animation-delay: 0.45s;
     animation-delay: 0.45s;
     background-color: #2F75B5; 
-}
-.gent__footer footer {
-    clear: both;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0.5em;
-    max-width: 100%;
-    padding: 0 1em 0.5em;
-}
-.gent__footer-copyright {
-    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-    font-size: 0.6875em;
 }

@@ -1,0 +1,72 @@
+.history {
+    width: 95%;
+    margin: 50px auto 0;
+    height: 500px;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+    overflow-y: auto;
+}
+.respond-mes {
+    background-color: royalblue;
+    color: blanchedalmond;
+    text-align: left;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+    padding: 5px 0;
+}
+.request-mes {
+    text-align: right;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+    padding: 5px 0;
+}
+footer {
+    clear: both;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 25px;
+    width: 100%;
+    clear: both;
+    /* sticky footer fix start */
+    position: fixed;
+    bottom: 0;
+    height: auto;
+    /* sticky footer fix end */
+    margin-top: 3em;
+    color: #fff;
+    -webkit-animation: intro 0.3s both;
+    animation: intro 0.3s both;
+    -webkit-animation-delay: 0.45s;
+    animation-delay: 0.45s;
+}
+input[type=text] {
+    height: 50px;
+    width: 75%;
+    padding-left: 25px;
+    padding-right: 25px;
+    line-height: 50px;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+}
+input[type=button] {
+    height: 50px;
+    width: 20%;
+    background-color: royalblue;
+    color: seashell;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-bottom: 3px solid #000;
+    border-right: 3px solid #000;
+}
+input[type=button]:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.gent__footer footer {
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    max-width: 100%;
+    padding: 0 1em 0.5em;
+}
+.gent__footer-copyright {
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+    font-size: 0.6875em;
+    color: white;
+}
