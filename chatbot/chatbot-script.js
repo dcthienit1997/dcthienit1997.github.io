@@ -16,6 +16,7 @@ function send() {
             listMess.innerHTML += sendMess;
             listMess.innerHTML += resMess;
         });
+        document.getElementById("message").value = "";
     }
 }
 
