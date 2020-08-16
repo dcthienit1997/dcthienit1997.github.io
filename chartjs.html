@@ -8,62 +8,131 @@
 </head>
 
 <body>
-    <div class="" style="width: 100%; margin-top: 100px;">
+    <!-- <div class="" style="width: 100%; margin-top: 100px;">
         <canvas id="myChart" width="600" height="200"></canvas>
+    </div> -->
+    <div style="width: 100%; margin-top: 100px;">
+        <canvas id="svmStackbarChart" width="600" height="200"></canvas>
+    </div>
+    <div style="margin: 50px auto; text-align: center; width: fit-content;">
+        <h4 style="padding: 10px 20px; border-bottom: 1px solid #000; border-right: 1px solid #000; cursor: pointer;" onclick="window.print();"> PRINT </h4>
     </div>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
 <script>
     var color = Chart.helpers.color;
-    var ctx = document.getElementById('myChart').getContext('2d');
-    var myChart = new Chart(ctx, {
+    var ctxsvm = document.getElementById('svmStackbarChart').getContext('2d');
+    var svmStackbarChartData = {
+			labels: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
+            'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'K', 'L',
+            'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'X',
+            'Y', 'Z',
+            'Đ'],
+			datasets: [{
+				label: 'Detect success',
+				// backgroundColor: window.chartColors.red,
+				data: [
+                82.76923076923077, 99.31506849315068, 99.57716701902748, 99.57716701902748, 
+                99.56896551724138, 99.57716701902748, 96.71641791044776, 97.71689497716895, 
+                95.81881533101046, 99.57716701902748, 90.38461538461539, 78.78787878787878, 
+                93.75, 99.57716701902748, 99.57716701902748, 99.57716701902748, 
+                92.85714285714286, 97.67441860465115, 99.57716701902748, 75.0, 88.88888888888889, 
+                71.42857142857143, 99.57716701902748, 61.53846153846154, 83.33333333333334, 
+                99.57716701902748, 99.57716701902748, 99.57716701902748, 99.57716701902748, 
+                70.0, 99.57716701902748, 82.05128205128204, 99.57716701902748
+
+                ],
+                backgroundColor: "rgba(0, 112, 192, 1)"
+			}, {
+				label: 'Detect failure',
+				// backgroundColor: window.chartColors.blue,
+				data: [
+                17.230769230769226, 0.684931506849324, 0.4228329809725153, 0.4228329809725153, 
+                0.4310344827586192, 0.4228329809725153, 3.2835820895522403, 2.2831050228310517, 
+                4.181184668989545, 0.4228329809725153, 9.615384615384613, 21.212121212121218, 
+                6.25, 0.4228329809725153, 0.4228329809725153, 0.4228329809725153, 
+                7.142857142857139, 2.3255813953488484, 0.4228329809725153, 25.0, 
+                11.111111111111114, 28.57142857142857, 0.4228329809725153, 38.46153846153846, 
+                16.666666666666657, 0.4228329809725153, 0.4228329809725153, 0.4228329809725153, 
+                0.4228329809725153, 30.0, 0.4228329809725153, 17.948717948717956, 0.4228329809725153
+
+                ],
+                backgroundColor: "rgba(255, 0, 0, 1)"
+			}]
+
+		};
+    var svmStackbarChart = new Chart(ctxsvm, {
         type: 'bar',
-        data: {
-            labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
-                'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-            datasets: [{
-                label: '# of Votes',
-                data: [12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3,
-                    12, 19, 3, 5, 2, 3],
-                borderWidth: 1,
-                backgroundColor: "rgba(10, 132, 255, 0.7)",
-            }]
-        },
+        data: svmStackbarChartData,
         options: {
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: true
-                    }
-                }]
-            },
             title: {
                 display: true,
-                text: 'CHI NHÁNH ĐỒNG ĐEN'
+                text: 'SVM Stackbar chart'
+            },
+            responsive: true,
+            scales: {
+                xAxes: [{
+                    stacked: true,
+                }],
+                yAxes: [{
+                    stacked: true
+                }]
             }
         }
     });
+
+</script>
+<script>
+    // var color = Chart.helpers.color;
+    // var ctx = document.getElementById('myChart').getContext('2d');
+    // var myChart = new Chart(ctx, {
+    //     type: 'bar',
+    //     data: {
+    //         labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange',
+    //             'Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+    //         datasets: [{
+    //             label: '# of Votes',
+    //             data: [12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3,
+    //                 12, 19, 3, 5, 2, 3],
+    //             borderWidth: 1,
+    //             backgroundColor: "rgba(10, 132, 255, 0.7)",
+    //         }]
+    //     },
+    //     options: {
+    //         scales: {
+    //             yAxes: [{
+    //                 ticks: {
+    //                     beginAtZero: true
+    //                 }
+    //             }]
+    //         },
+    //         title: {
+    //             display: true,
+    //             text: 'CHI NHÁNH ĐỒNG ĐEN'
+    //         }
+    //     }
+    // });
 </script>
 
 </html>
