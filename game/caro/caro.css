@@ -1,0 +1,44 @@
+/**
+*** HEADER 
+**/
+header {
+    background-color: aquamarine;
+    font-family: 'Poiret One', cursive;
+    font-size: 82px;
+    padding: 10px;
+}
+
+/**
+*** MAIN
+**/
+.container {
+    margin: 0 auto;
+    width: fit-content;
+}
+table {
+    text-align: center;
+    width: fit-content;
+    padding: 5px;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: grey;
+}
+tr>td {
+    width: 26px;
+    height: 26px;
+    background-color: #e8e8e8;
+    cursor: pointer;
+    padding: 0 7px;
+    box-sizing: border-box;
+}
+
+.player1 tr>td:hover {
+    background: rgb(250, 138, 138);
+    transition-duration: 0.4s;
+  }
+  
+  .player2 tr>td:hover {
+    background: rgb(133, 206, 255);
+    transition-duration: 0.4s;
+  }
